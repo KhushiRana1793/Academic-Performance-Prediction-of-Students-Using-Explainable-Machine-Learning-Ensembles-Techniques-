@@ -1,4 +1,8 @@
-Student Academic Performance Prediction using Explainable Ensemble Learning
+Academic Performance Prediction of Students 
+Using Explainable Machine Learning Ensemble 
+Techniques 
+<img width="870" height="597" alt="image" src="https://github.com/user-attachments/assets/f4d459eb-2b44-4a33-aa20-f53e4776e1cb" />
+
 
 📖 Project DescriptionThis project implements an explainable machine learning framework to predict student academic success (Pass/Fail). It addresses the "black-box" nature of complex algorithms by integrating SHAP (SHapley Additive exPlanations) to provide transparency and interpretability for educators.
 
